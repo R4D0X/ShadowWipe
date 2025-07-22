@@ -29,7 +29,13 @@ Built for researchers, privacy advocates, and advanced users, ShadowWipe automat
 - Windows 10/11 (x64)
 - Administrator privileges
 
+## 🧪 Tested Environments
 
+| Windows Version | Architecture | Status      |
+|-----------------|--------------|-------------|
+| Windows 10      | x64          | ✅ Tested   |
+| Windows 11      | x64          | ✅ Tested   |
+| Windows Server  | x64          | ⚠️ Untested |
 
 ## Build Instructions
 
