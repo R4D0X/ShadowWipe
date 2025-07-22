@@ -1,5 +1,9 @@
 # ShadowWipe
 
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-blue)
+![Language](https://img.shields.io/badge/language-C++17-red)
+
 ShadowWipe is a high-precision anti-forensics tool designed to systematically eliminate traces of user activity and system metadata from Windows environments. By targeting a wide range of forensic artifacts—including volume shadow copies, shellbags, registry entries, browser caches, temporary files, and alternate data streams (ADS)—ShadowWipe ensures that post-incident investigations yield minimal usable evidence.
 Built for researchers, privacy advocates, and advanced users, ShadowWipe automates the process of evidence elimination and artifact removal, providing a reliable method for forensic evasion in test or controlled environments.
 
@@ -24,6 +28,8 @@ Built for researchers, privacy advocates, and advanced users, ShadowWipe automat
 
 - Windows 10/11 (x64)
 - Administrator privileges
+
+
 
 ## Build Instructions
 
